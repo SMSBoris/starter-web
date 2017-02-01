@@ -8,8 +8,10 @@ This is to introduce Git.
 
 ## Purpose
 
-Sample website with plenty of files for test
+Sample website with plenty of files for test and training
 
 ## Deployment
+
+Deploy this whenever you want.
 
 ## How To Contribute
