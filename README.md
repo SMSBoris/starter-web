@@ -16,6 +16,8 @@ Deploy this whenever you want.
 
 ## How To Contribute
 
+Please check the repository first.
+
 ###Copyright
 
 Copyright 2017 GitHub training
