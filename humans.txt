@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    boris	bma@seniormarketsales.com
 
 # THANKS
 
-    <name>
+    boris
 
 # TECHNOLOGY COLOPHON
 
