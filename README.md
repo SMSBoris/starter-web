@@ -15,3 +15,7 @@ Sample website with plenty of files for test and training
 Deploy this whenever you want.
 
 ## How To Contribute
+
+###Copyright
+
+2017 git.Training
