@@ -18,4 +18,4 @@ Deploy this whenever you want.
 
 ###Copyright
 
-2017 git.Training
+Copyright 2017 GitHub training
