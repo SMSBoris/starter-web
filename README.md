@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work together. Adding some comments again.
+This repository is for showing how Git and GitHub work together. Adding some comments again, adding more and more comments to myfeature branch.
 
 ## Introduction
 
